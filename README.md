@@ -5,7 +5,7 @@ Example app for the FitBit Ionic to show communication between a watch app and a
 
 The app simply looks for button presses (up or down) and then sends those over the message channel to the companion app which in turn forms a new JSON payload containing the button that was pressed and POSTs that to a Web API.
 
-I've also included a VERY simple WebAPI with this running on AWS Lambda which simply respods with JSON containing the timestamp in Unix time. eg:
+I've also included a VERY simple WebAPI with this running on AWS Lambda which simply responds with JSON containing the timestamp in Unix time. eg:
 `{"ts":"1512407727"}`
 
 You can change this endpoint by editing the host const in line 7 of the companion app
