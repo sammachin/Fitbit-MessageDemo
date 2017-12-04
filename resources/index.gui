@@ -1,0 +1,4 @@
+<svg viewport-fill="black">
+  <text id="title" x="50%" y="10%+15" text-anchor="middle"  font-family="System-Regular" fill="green">Message Demo</text>
+  <textarea id="response" width="100%-10" text-length="500" x="5%" y="35%+15" font-family="System-Regular" fill="white" ></textarea>
+</svg>
