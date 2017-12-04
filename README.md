@@ -18,6 +18,6 @@ PR's welcome
 
 
 
-##Privacy Policy
+## Privacy Policy
 
 If you use the app "as-is" then your watch/phone will make requests to my lambda function telling me which buton you pressed, to the best of my knowledge there is no personal data included in these requests and I am not aiming to collect anything as such, the only information that is recorded is the standard AWS Lambda & APi Gateway server logs. 
