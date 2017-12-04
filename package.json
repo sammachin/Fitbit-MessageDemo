@@ -1,6 +1,5 @@
 {
   "fitbit": {
-    "appUUID": "152c3bfa-f1a1-42e5-a1b6-f0ac2b42e9f0",
     "appType": "app",
     "appDisplayName": "Message Demo",
     "iconFile": "resources/icon.png",
