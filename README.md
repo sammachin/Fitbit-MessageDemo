@@ -1,6 +1,9 @@
 # Fitbit-MessageDemo
 
 
+![screenshot](https://raw.githubusercontent.com/sammachin/Fitbit-MessageDemo/master/screenshot.png)
+
+
 Example app for the FitBit Ionic to show communication between a watch app and a Web API via a companion app.
 
 The app simply looks for button presses (up or down) and then sends those over the message channel to the companion app which in turn forms a new JSON payload containing the button that was pressed and POSTs that to a Web API.
